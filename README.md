@@ -47,7 +47,7 @@
 
 </br>
 
-![Snake animation](https://github.com/Daniel-Silva97/Daniel-Silva97/blob/output/github-contribution-grid-snake.svg)
+![profile-night-view](https://user-images.githubusercontent.com/101566449/160467769-00f63a73-8497-4b78-a5f2-f289c4461fd2.svg)
 
 
 
